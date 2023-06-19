@@ -1,0 +1,9 @@
+Exploration of Explainable GNN
+
+Simulations are carried out to tudy the performance fo GNNExpaliner and SubgraphX
+
+Studied the explanatory subgraphs identified by SubgraphX, and gained some insights about the working principle of GNN
+
+Other things I have done in this coruse:
+Studied the methodologies of other explanation models including gradient based method (Pope et al, 2019), XGNN (Yuan et al, 2020), OrphicX (Lin et al, 2022) and Cooperative Explanation (Fang et al, 2023)
+Understood the mecahnism of GNN and its application, including GNN for recommender system
